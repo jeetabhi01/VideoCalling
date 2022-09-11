@@ -58,4 +58,4 @@ Learned about the working of Socket.IO and Peerjs.
   
 ## Authors
 
-- [Rishabh Verma](https://www.github.com/aryan2621)
+- [Abhijeet Khopkar](https://www.github.com/jeetabhi01)
